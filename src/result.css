@@ -1,0 +1,11 @@
+.input {
+	height:10vh;
+	width: 25%;
+	background: black;
+	color: white;
+	justify-content: center;
+	align-items: center;
+	margin: 0 auto;
+	padding-top: 20px;
+	font-size: 24px;
+}
